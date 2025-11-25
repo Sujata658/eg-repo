@@ -5,9 +5,9 @@ pwa: true
 google_fonts:
   - Fira Sans
 
-title: Mototipp
-description: Bei mototipp.de gibt's News rund ums motorisierte Zweirad. Immer aktuell, immer hochwertig, stets interessant. Vorbeischauen lohnt!
-url: https://mototipp.de
+title: Example Test repo
+description: 
+url:
 baseurl: ""
 
 future: true
@@ -111,5 +111,3 @@ defaults:
       _inputs:
         description:
           type: textarea
-
-cloudinary_image_base: "https://res.cloudinary.com/mototipp/image/upload"
