@@ -31,14 +31,11 @@ collections:
                                + Texthauptteil als Fließtext inklusive passender Zitate aus der Originalquelle sowie mit Quellennennung durch Textkonstruktionen wie "nach Angaben von", "wie XY mitteilt" etc.
                                + Fazit mit den Kernaussagen aus dem Text in Bulletpoints
                                - zwingender Verzicht auf werbliche Aussagen bzw. auf die ungeprüfte Übernahme werblicher Aussagen aus der Quelle
+        source: "https://www.honda.de/motorcycles/experience-honda/news-and-events.html"
         selector: ".gs.deskTwoQuarters.tabTwoThirds h3 > a"
         recurrence: "*/1 * * * *"
-        source: "https://www.honda.de/motorcycles/experience-honda/news-and-events.html"
-        domain: "www.honda.de"
         times_generated: 7
-        filter: ""
-        repo_id: "ehtxnjc7a4g1tn5"
-        dynamic_content: false
+        repo_id: "6qjzoox5byw7tlb"
 
 
 
